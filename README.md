@@ -2,7 +2,7 @@
   "Detect_installed": [
     {
       "package": "com.google.android.youtube",
-      "status": false,
+      "status": true,
       "installed_error_message": "error404"
     }
   ],
@@ -10,8 +10,8 @@
 
     {
       "package": "com.anihopwwmohub.pro",
-      "status": false,
-      "not_installed_error_message": "closed"
+      "status": true,
+      "not_installed_error_message": "closed server"
     }
   ]
 }
